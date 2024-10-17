@@ -1,2 +1,1 @@
-# RP_Home_work
- 
+# Računalniški praktikum
